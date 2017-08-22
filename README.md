@@ -73,5 +73,3 @@ public class TestPlugin
 
 ```
 
-### Credits ###
-Ally Please insert doge e-god here :camel:
